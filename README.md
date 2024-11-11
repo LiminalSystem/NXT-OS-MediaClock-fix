@@ -12,8 +12,8 @@ liminal the builder can they fix it? probably not! (they did)
 # THIS IS LIKE 99.999999% NOT MY CODE, AND THE PART I DID ADD THAT I WROTE MYSELF IS A CODE COMMENT THAT ISNT EVEN RELEVANT ANYMORE, CREDIT TO THE PERSON WHO MADE THE EXAMPLE WEBNOWPLAYING THING AND NXT-OS ENTIRELY 
 
 1. extract folder
-2. grab rainmeter manager
-3. rightclick nxt-os > "open folder"
+2. grab rainmeter manager (click rainmeter in toolbox
+3. rightclick nxt-os in Skins menu > "open folder"
 4. delete CenterClock
 5. move MY centerClock in
 6. it works( assuming you have your webnowplaying setup)
