@@ -1,5 +1,5 @@
 # Warning: this WILL break your media clock from seeing ANYTHING OTHER than webnowplaying until you reinstall nxt-os.
-
+make a backup or im not responsible lamo or smth lol
 
 # NXT-OS-MediaClock-fix
 liminal the builder can they fix it? probably not! (they did)
